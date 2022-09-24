@@ -1,0 +1,10 @@
+C:\Users\1519-20\source\repos\FootbalTime\FootbalTime\bin\Debug\FootbalTime.exe.config
+C:\Users\1519-20\source\repos\FootbalTime\FootbalTime\bin\Debug\FootbalTime.exe
+C:\Users\1519-20\source\repos\FootbalTime\FootbalTime\bin\Debug\FootbalTime.pdb
+C:\Users\1519-20\source\repos\FootbalTime\FootbalTime\obj\Debug\FootbalTime.csproj.AssemblyReference.cache
+C:\Users\1519-20\source\repos\FootbalTime\FootbalTime\obj\Debug\FootbalTime.Form1.resources
+C:\Users\1519-20\source\repos\FootbalTime\FootbalTime\obj\Debug\FootbalTime.Properties.Resources.resources
+C:\Users\1519-20\source\repos\FootbalTime\FootbalTime\obj\Debug\FootbalTime.csproj.GenerateResource.cache
+C:\Users\1519-20\source\repos\FootbalTime\FootbalTime\obj\Debug\FootbalTime.csproj.CoreCompileInputs.cache
+C:\Users\1519-20\source\repos\FootbalTime\FootbalTime\obj\Debug\FootbalTime.exe
+C:\Users\1519-20\source\repos\FootbalTime\FootbalTime\obj\Debug\FootbalTime.pdb
